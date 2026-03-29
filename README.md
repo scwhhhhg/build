@@ -14,11 +14,11 @@ This repository is used to publish release artifacts and downloadable production
 
 For product details, pricing, and official purchase flow, visit:
 
-[https://fbpro-blaster.com/](https://fbpro-blaster.com/)
+[https://fbproblaster.vercel.app/](https://fbproblaster.vercel.app/)
 
 Direct purchase page:
 
-[https://fbpro-blaster.com/payment.html?package=pro](https://fbpro-blaster.com/payment.html?package=pro)
+[https://fbproblaster.vercel.app/payment.html?package=pro](https://fbproblaster.vercel.app/payment.html?package=pro)
 
 ## Releases
 
